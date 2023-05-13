@@ -1,0 +1,22 @@
+autograd==1.5
+build==0.10.0
+dlib==19.24.1
+easydict==1.10
+easyocr==1.6.2
+gym==0.25.2
+imutils==0.5.4
+ipykernel==5.5.6
+keras==2.12.0
+matplotlib==3.7.1
+numpy==1.22.4
+opencv-python==4.7.0.72
+opencv-python-headless==4.5.4.60
+pandas==1.5.3
+param==1.13.0
+scikit-learn==1.2.2
+scipy==1.10.1
+seaborn==0.12.2
+tensorboard==2.12.2
+tensorflow==2.12.0
+torchvision @ https://download.pytorch.org/whl/cu118/torchvision-0.15.1%2Bcu118-cp310-cp310-linux_x86_64.whl#sha256=9a679fa37a741018c804234693bbac3d487fb3dd55ee73f6b33677b177c8c07a
+ultralytics==8.0.99
